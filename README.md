@@ -9,3 +9,10 @@ This is a list of small, self-contained programming projects. The projects shoul
 These projects are not intended to result in products that people will actually use. Instead, the intention is to get exposure to new tools and concepts and to practice making software design decisions. 
 
 As I complete projects in the list, I'll link to my code on GitHub and add notes on how long the project took, what parts were fun/challenging/easy/boring. I'll be completing one project per week, along with a group of Hacker Schoolers from the Winter 2014 batch.
+
+There already exist a few very comprehensive and overwhelmingly long programming project idea lists (see Resources section). I'm attempting to create a more, uh, curated list.
+
+## Resources
+
+* [Karan Goel's Project List](https://github.com/karan/Projects)
+* [Martyr2's Project List](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/)
