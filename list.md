@@ -11,7 +11,7 @@ More things to do:
 * Display data on how much that link gets used
 * Make that data private to whoever made the original shortened link
 * Make shortened links not guessable
-* Deploy your site somewhere besides localhost 
+* Deploy your site somewhere besides localhost
 * Graphically display the click data
 * Load test your server - can you take 100 posts per second? 1000 shortened link GETs per second? How many redirections or shortens can your site do per second? What was the bottleneck?
 * Make a bookmarklet that gives the user the shortened version of a link without leaving a page.
@@ -35,7 +35,7 @@ Things that should work:
     Sarah Apple 509 123 4567
     Sarah Orange 123 456 7890
 
-    $ phonebook add 'John Michael' '123 456 4323' -b hsphonebook.pb # error message on duplicate name    
+    $ phonebook add 'John Michael' '123 456 4323' -b hsphonebook.pb # error message on duplicate name
 
     $ phonebook change 'John Michael' '234 521 2332' -b hsphonebook.pb # error message on not exist
 
@@ -55,25 +55,3 @@ Optional extra tasks when you're done:
 * implement a sql database backend if you didn't already
 * implement a http backend (`phonebook lookup Tom -b 'http://mywebsite/phonebook'` etc.)
 * Add tab completion
-
-## Library of Things
-
-Build a tool which can store items (be they links, files, etc.) and retrieve them quickly. Implement tagging and sorting to find them faster.
-
-This is a purposefully open-ended assignment, to encourage people to find something in their life which needs sorting, and build a tool that will actually help them with it. This could be a website, a command-line tool, or whatever!
-
-Things that should work: 
-
-* Adding items to the library
-* Retriving items from the library
-* Filtering the items in the library by name
-* Tagging items in the library with some form of metadata
-* Filtering the items in the library by tag
-
-Ideal Goals:
-
-* Make the storing, retrieval, and search as fast as possible.
-  * This is a good time to look into interesting sorting and searching algorithms!
-* Add autocompletion in as many ways as possible
-  * Tag names, item names, etc etc.
-  * For web applications, returning results with a partial search (a la google search)
