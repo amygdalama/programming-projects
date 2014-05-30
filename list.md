@@ -70,7 +70,6 @@ Part 2 - turn your server into a framework
 * Turn your framework into a module or library, so someone can import it into their program.  Tell them how to write a function and associate it with a url.
 
 More ideas
-* Add (optional) additional feature ideas here!
 * Handle POST requests from forms
 * HTTP Header Parsing
 * Make the port a command-line option
@@ -92,7 +91,6 @@ Basic Instructions
 * If any of the ghosts run into your creature, GAME OVER, sucker
 
 More ideas
-* Add your ideas below!
 * Add levels! When all the pellets are eaten, trigger the next level rather than end the game. Make the ghosts move faster.
 * Keep track of high scores, and announce at the end of the game if the user beat a high score
 * Let your creature have multiple lives! If a ghost runs into your creature, it looses a life. Then, when your creature runs out of lives, GAME OVER
