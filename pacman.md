@@ -1,6 +1,6 @@
 ## Pacman Clone
 
-Basic Instructions
+### Basic Instructions
 * Make a maze.
 * Make a Pacman-like creature that can walk around the maze (but can't go through the walls) that you can control from your keyboard.
 * Add pellets for your creature to eat. Make the pellets disappear when the creature walks over them.
@@ -10,7 +10,7 @@ Basic Instructions
 * Figure out what to do when the ghosts run into each other. Maybe they should reverse directions. Maybe they should turn into MEGA GHOSTS. Maybe they should just walk through each other, because, you know, they're ghosts.
 * If any of the ghosts run into your creature, GAME OVER, sucker
 
-More ideas
+### More ideas
 * Add levels! When all the pellets are eaten, trigger the next level rather than end the game. Make the ghosts move faster.
 * Keep track of high scores, and announce at the end of the game if the user beat a high score
 * Let your creature have multiple lives! If a ghost runs into your creature, it looses a life. Then, when your creature runs out of lives, GAME OVER

@@ -3,11 +3,12 @@
 
 Build a website that allows you to submit a link, then gives you a new, hopefully shorter url to use for that link.
 
+### Basic Instructions
 * Build a webpage you can visit in a web browser.
 * Make a form on this webpage
 * Make submitting the form return a new link that can later be used to get back to that site
 
-More things to do:
+### More things to do:
 * Display data on how much that link gets used
 * Make that data private to whoever made the original shortened link
 * Make shortened links not guessable

@@ -3,7 +3,7 @@
 
 Build a command line tool that manages phone books, via the interface below.
 
-Things that should work:
+### Things that should work:
 
     $ phonebook create hsphonebook.pb
     created phonebook hsphonebook.pb in the current directory
@@ -18,7 +18,7 @@ Things that should work:
 
 You should also write tests. (<--- this is important, it's half of the assignment!)
 
-Optional extra tasks when you're done:
+## More ideas
 * make lookup the default command
 * allow search by partial name - not just beginning of name
 * allow `-b phonebook.rb` to occur anywhere in command
