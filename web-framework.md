@@ -1,6 +1,6 @@
 ## Web Framework
 
-*Thanks to [Rose Ames](https://github.com/rose) for submitting and writing up the details for this project!*
+By [Rose Ames](https://github.com/rose)
 
 Make a server that listens for HTTP requests & calls different functions for different urls.  The steps below are just suggestions; feel free to do it your way!
 
