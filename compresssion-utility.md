@@ -31,5 +31,5 @@ See:
 * Wikipedia, ["Huffman Coding"](http://en.wikipedia.org/wiki/Huffman_coding)
 * Steven Skiena, [Algorithm Design Manual](http://sist.sysu.edu.cn/~isslxm/DSA/textbook/Skiena.-.TheAlgorithmDesignManual.pdf), sec. 18.5.
 
-Another Idea:
+## Another Idea:
 Play around with a lossy compression algorithm!
