@@ -17,7 +17,8 @@ Build a command line tool for storing and retrieving old versions of a project. 
 3. Messages.  Add a way to leave a note about each backup when it's created, for example `myvcs backup -m "add readme"`.  Alter `myvcs log` to show the message as well as the date for each backup.
 4. Branches.  Here's the fun part!  Using the head data from in item 5, store the parent of each backup as it's made.  Then alter `myvcs log` to only print information about the current backup's ancestors.
 
-### Example/Explanation on branches (skip this if you understand what's required here)
+#### Example/Explanation on branches
+*(skip this if you understand what's required here)*
 
 Suppose I'm working on a project and take 12 snapshots.  Then I think maybe I've made a design mistake and revert back to snapshot 7 to try something different.  I make 3 new backups, and then type `myvcs log`.  What should I see?
 
@@ -28,7 +29,7 @@ When I check out 7, .myvcs/head should be altered to point at 7.  When I next cr
 `myvcs log`  should look at the current contents of head, print out the date &  message for the latest snapshot, then print its parent's data, then the parent's parent's, and so on until a snapshot with no parent is reached.
 
 
-### Notes on Metadata:
+#### Notes on Metadata:
 
 Item 1 is pretty easy, but don't skip it; you'll need it for number 4!
 
