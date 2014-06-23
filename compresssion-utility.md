@@ -27,9 +27,9 @@ Cool, so we reduced our memory usage by half, but we can go further. Assuming AS
 ## Huffman Coding:
 I don't think I can write about this nearly as well as some other sources.
 See:
-* Robert Sedgewick, [Algorithms](ftp://ftp.micronet-rostov.ru/linux-support/books/computer%20science/data%20Structures%20&%20algorithms/[Pearson]%20-%20Algorithms,%204th%20ed.%20-%20[Sedgewick,%20Wayne].pdf), chapter 5.5
+* Robert Sedgewick, [Algorithms](http://algs4.cs.princeton.edu/55compression/), chapter 5.5
 * Wikipedia, ["Huffman Coding"](http://en.wikipedia.org/wiki/Huffman_coding)
-* Steven Skiena, [Algorithm Design Manual](ftp://ftp.micronet-rostov.ru/linux-support/books/computer%20science/data%20Structures%20&%20algorithms/%5BSpringer%5D%20-%20The%20Algorithm%20Design%20Manual%20Second%20Edition,%202nd%20ed.%20-%20%5BSkiena%5D.pdf), sec. 18.5.
+* Steven Skiena, [Algorithm Design Manual](http://sist.sysu.edu.cn/~isslxm/DSA/textbook/Skiena.-.TheAlgorithmDesignManual.pdf), sec. 18.5.
 
 Another Idea:
 Play around with a lossy compression algorithm!
