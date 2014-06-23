@@ -44,4 +44,4 @@ However you do it, remember that the user should never have to touch anything in
 Post any other useful links or ideas you have here!
 * I got this idea from the [Git Parable](http://tom.preston-werner.com/2009/05/19/the-git-parable.html).  It's got info about lots more git features than covered above - highly recommended.
 * Add named branches.
-* Front end. Put a simple front end on your project so the VCS can be administered from the web. Use any web framework you have to hand — you should be able to display the metadata, read log files and messages, and run commands from the browser. Keep it simple and functional.
+* Front end. Put a simple front end on your project so the VCS can be administered from the web. Use any web framework you have at hand — you should be able to display the metadata, read log files and messages, and run commands from the browser. Keep it simple and functional.
