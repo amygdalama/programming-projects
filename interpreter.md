@@ -8,7 +8,7 @@ Write a program that parses and executes source code from a file.
 > A Brainfuck program has an implicit byte pointer, called "the pointer", which is free to move around within an array of 30000 bytes, initially all set to zero. The pointer itself is initialized to point to the beginning of this array.
 > The Brainfuck programming language consists of eight commands, each of which is represented as a single character.
 
->   \>         Increment the pointer.
+    >         Increment the pointer.
     <         Decrement the pointer.
     +         Increment the byte at the pointer.
     -         Decrement the byte at the pointer.
